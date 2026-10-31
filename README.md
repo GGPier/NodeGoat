@@ -85,17 +85,6 @@ La configurazione può variare a seconda della versione del progetto. Consultare
 
 **Security notice:** NodeGoat è intenzionalmente vulnerabile. Tutti i test devono essere effettuati esclusivamente in ambienti isolati e autorizzati. Non esporre l'applicazione vulnerabile a Internet né pubblicare credenziali e chiavi private.
 
-## Documentation
-
-La documentazione completa del progetto comprende:
-
-- Analisi delle vulnerabilità.
-- Screenshot delle dimostrazioni pratiche.
-- Analisi del codice vulnerabile.
-- Correzioni implementate e best practice.
-- Verifiche delle mitigazioni.
-
-**[Full Technical Report (PDF)](docs/NodeGoat_Security_Report.pdf)**
 
 ## Skills Gained
 
